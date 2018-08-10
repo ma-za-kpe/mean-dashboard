@@ -10,7 +10,7 @@
 ### SET UP INSTRUCTIONS
 
 -   git clone <https://github.com/ma-za-kpe/mean-dashboards>
--   cd movie-tickets
+-   cd mean-dashboards
 
     you should have the following installed
 
