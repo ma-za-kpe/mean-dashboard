@@ -35,11 +35,10 @@ MEAN stack.
 ## SPECS FOR THE PROJECT INCLUDING INPUT AND OUTPUT
 
 1. Install the mongoose client and establish connection to the MongoDB database
-2. Create a data model
-3. Populate data in the MongoDB database
-4. Create REST API for data retrieval
-5. Create a method to fetch data using the angular controller
-6. Create a view for rendering the chart
+2. Populate data in the MongoDB database
+3. Create REST API for data retrieval
+4. Create a method to fetch data using the angular controller
+5. Create a view for rendering the chart
 
 ## link to live site on GitHub Pages
 
